@@ -4,7 +4,7 @@ Hi there 👋
 - 🤔 I’m looking for help with Java
 - 😄 Pronouns: He/his
 - 🏫 I'm a Management Information Systems student
-![Metehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanktl&theme=dark&show_icons=true)
+![mthanktl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanktl&theme=dark&show_icons=true)
 
 
 
