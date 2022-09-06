@@ -4,5 +4,5 @@ Hi there 👋
 - 🤔 I’m looking for help with Java
 - 😄 Pronouns: He/his
 
-![mthanktl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanktl&theme=dark&show_icons=true)(https://github.com/mthanktl/github-readme-stats)
+![mthanktl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanktl&theme=dark&show_icons=true)](https://github.com/mthanktl/github-readme-stats)
 
