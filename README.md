@@ -1,7 +1,6 @@
 Hi there 👋
 
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with Java
+- 🌱 I’m currently learning html,javascript
 - 😄 Pronouns: He/his
 - 🏫 I'm a Management Information Systems student
 
