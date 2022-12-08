@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I’m currently learning html, JavaScript
+- 🌱 I’m currently learning Selenium
 - 😄 Pronouns: He/his
 - 🏫 I'm a Management Information Systems student
 
