@@ -9,6 +9,7 @@
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/metehank/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+<p><a href="https://bsky.app/profile/methoven.bsky.social" target="_blank"><img src="https://img.shields.io/badge/BlueSky-1DA1F2.svg?&style=flat-square&logo=bluesky&logoColor=white" alt="BlueSky"></a></p>
 
 ## Skills
 
